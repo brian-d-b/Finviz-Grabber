@@ -62,109 +62,55 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWl
 
 ###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
 
-ge(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 154 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
 
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_HistoryCommitIndexAndLength) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
-
+[Parent 27360, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 27360, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
 
 ###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 1976 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CreateWindowContext) Channel closing: too late to send/recv, messages will be lost
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
 
 
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
 
 
 ###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
 
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CreateWindowContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
-
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 1032 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/ptarmiganmediadcm677757797954/moatad.js#moatClientLevel1=2988864&moatClientLevel2=26980385&moatClientLevel3=528677630&moatClientLevel4=164404578&moatClientSlicer1=4965247&moatClientSlicer2=336619439, line 243: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 27360, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://s0.2mdn.net/sadbundle/2539103739442599180/index.html, line 153: TypeError: a.g is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 2423 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s0.2mdn.net/sadbundle/2539103739442599180/index.html, line 168: TypeError: this.g is null
 
 ###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://z.moatads.com/ptarmiganmediadcm677757797954/moatad.js#moatClientLevel1=2988864&moatClientLevel2=26980385&moatClientLevel3=528677630&moatClientLevel4=164404578&moatClientSlicer1=4965247&moatClientSlicer2=336619439, line 243: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 1868 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
 
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_HistoryCommitIndexAndLength) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CreateWindowContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_HistoryCommitIndexAndLength) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 5196 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 1906 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 27360, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 4915 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 5611 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+lost
 
 
 ###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
@@ -559,43 +505,138 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWl
 
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 3955 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript error: https://as-sec.casalemedia.com/cygnus?fn=indexResponse367eda1c56&v=8.8&s=819083&r=%7B%22id%22%3A%22367eda1c56%22%2C%22site%22%3A%7B%22page%22%3A%22https%3A%2F%2Ffinviz.com%2Fmap.ashx%3Ft%3Dsec%22%2C%22ref%22%3A%22https%3A%2F%2Ffinviz.com%2Fmap.ashx%3Ft%3Dsec%22%7D%2C%22imp%22%3A%5B%7B%22id%22%3A%220%22%2C%22video%22%3A%7B%22mimes%22%3A%5B%22video%2Fmp4%22%2C%22application%2Fjavascript%22%2C%22video%2Fwebm%22%2C%22video%2Fquicktime%22%2C%22video%2Fogg%22%5D%2C%22minduration%22%3A0%2C%22maxduration%22%3A200%2C%22protocols%22%3A%5B1%2C2%2C3%2C4%2C5%2C6%5D%2C%22w%22%3A400%2C%22h%22%3A225%2C%22linearity%22%3A1%2C%22api%22%3A%5B1%2C2%5D%2C%22playbackmethod%22%3A%5B2%5D%2C%22startdelay%22%3A0%2C%22placement%22%3A5%7D%2C%22ext%22%3A%7B%22sid%22%3A%22pr_1_1_s%22%2C%22custom%22%3A%22videoPlayback%22%7D%2C%22bidfloor%22%3A2%7D%5D%2C%22source%22%3A%7B%22ext%22%3A%7B%22schain%22%3A%7B%22ver%22%3A%221.0%22%2C%22nodes%22%3A%5B%7B%22asi%22%3A%22freestar.com%22%2C%22hp%22%3A1%2C%22sid%22%3A%221108%22%7D%5D%2C%22complete%22%3A1%7D%7D%7D%2C%22user%22%3A%7B%22ext%22%3A%7B%22consent%22%3A%22%22%7D%7D%2C%22regs%22%3A%7B%22ext%22%3A%7B%22gdpr%22%3A0%2C%22us_privacy%22%3A%221---%22%7D%7D%7D, line 1: ReferenceError: indexResponse367eda1c56 is not defined
+JavaScript error: https://as-sec.casalemedia.com/cygnus?fn=indexResponse367eda1c56&v=8.8&s=819083&r=%7B%22id%22%3A%22367eda1c56%22%2C%22site%22%3A%7B%22page%22%3A%22https%3A%2F%2Ffinviz.com%2Fmap.ashx%3Ft%3Dsec%22%2C%22ref%22%3A%22https%3A%2F%2Ffinviz.com%2Fmap.ashx%3Ft%3Dsec%22%7D%2C%22imp%22%3A%5B%7B%22id%22%3A%220%22%2C%22video%22%3A%7B%22mimes%22%3A%5B%22video%2Fmp4%22%2C%22application%2Fjavascript%22%2C%22video%2Fwebm%22%2C%22video%2Fquicktime%22%2C%22video%2Fogg%22%5D%2C%22minduration%22%3A0%2C%22maxduration%22%3A200%2C%22proJavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
-JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 3115 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 5089 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 6875 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 1881 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 1381 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 5313 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 4219 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 3691 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 2179 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 2238 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 6328 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 484 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 5578 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 7194 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 6182 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 55940, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 2334 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 3781 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 3777 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 607 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 7602 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 7085 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 3885 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 1621 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+tps://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 213 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 4046 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 6401 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 5274 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 3153 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 1750 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 105 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 5154 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 2225 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 7311 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 6498 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 5330 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 5248 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CreateWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
 
 
 ###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_HistoryCommitIndexAndLength) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CreateBrowsingContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
 
 
 ###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
@@ -619,108 +660,107 @@ Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channe
 ###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
 
 
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_HistoryCommitIndexAndLength) Channel closing: too late to send/recv, messages will be lost
-
-
 ###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
 
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
-
-JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_GetModulesTrust) Channel closing: too late to send/recv, messages will be lost
-
-JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
-JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
-JavaScript warning: https://z.moatads.com/yahoodisplay873773666324/moatad.js#moatClientLevel1=Yahoo!&moatClientLevel2=247044&moatClientLevel3=2045555&moatClientLevel4=3409746&moatClientSlicer1=89&moatClientSlicer2=0&zMoatAuctionID=9175749856831708885:1653690442605&zMoatAdReqDomain=finviz.com, line 242: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://s.yimg.com/rq/iv/inside-native.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 
 ###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
 
 
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitWindowContextTransaction) Channel closing: too late to send/recv, messages will be lost
 
 
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_HistoryCommitIndexAndLength) Channel closing: too late to send/recv, messages will be lost
 
 
-###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
 
 
 ###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
 
-JavaScript warning: https://s.yimg.com/rq/iv/inside-native.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
-JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 213 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 5831 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 5937 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 5176 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://as-sec.casalemedia.com/cygnus?fn=indexResponse1821f33f62&v=8.8&s=819083&r=%7B%22id%22%3A%221821f33f62%22%2C%22site%22%3A%7B%22page%22%3A%22https%3A%2F%2Ffinviz.com%2Fmap.ashx%3Ft%3Dsec%22%2C%22ref%22%3A%22https%3A%2F%2Ffinviz.com%2Fmap.ashx%3Ft%3Dsec%22%7D%2C%22imp%22%3A%5B%7B%22id%22%3A%220%22%2C%22video%22%3A%7B%22mimes%22%3A%5B%22video%2Fmp4%22%2C%22application%2Fjavascript%22%2C%22video%2Fwebm%22%2C%22video%2Fquicktime%22%2C%22video%2Fogg%22%5D%2C%22minduration%22%3A0%2C%22maxduration%22%3A200%2C%22protocols%22%3A%5B1%2C2%2C3%2C4%2C5%2C6%5D%2C%22w%22%3A400%2C%22h%22%3A225%2C%22linearity%22%3A1%2C%22api%22%3A%5B1%2C2%5D%2C%22playbackmethod%22%3A%5B2%5D%2C%22startdelay%22%3A0%2C%22placement%22%3A5%7D%2C%22ext%22%3A%7B%22sid%22%3A%22pr_1_1_s%22%2C%22custom%22%3A%22videoPlayback%22%7D%2C%22bidfloor%22%3A2%7D%5D%2C%22source%22%3A%7B%22ext%22%3A%7B%22schain%22%3A%7B%22ver%22%3A%221.0%22%2C%22nodes%22%3A%5B%7B%22asi%22%3A%22freestar.com%22%2C%22hp%22%3A1%2C%22sid%22%3A%221108%22%7D%5D%2C%22complete%22%3A1%7D%7D%7D%2C%22user%22%3A%7B%22ext%22%3A%7B%22consent%22%3A%22%22%7D%7D%2C%22regs%22%3A%7B%22ext%22%3A%7B%22gdpr%22%3A0%2C%22us_privacy%22%3A%221---%22%7D%7D%7D, line 1: ReferenceError: indexResponse1821f33f62 is not defined
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 6091 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 6834 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 4626 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 5749 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 1433 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 430 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 4011 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://as-sec.casalemedia.com/cygnus?fn=indexResponsee81b6ddb5&v=8.8&s=819083&r=%7B%22id%22%3A%22e81b6ddb5%22%2C%22site%22%3A%7B%22page%22%3A%22https%3A%2F%2Ffinviz.com%2Fmap.ashx%3Ft%3Dsec%22%2C%22ref%22%3A%22https%3A%2F%2Ffinviz.com%2Fmap.ashx%3Ft%3Dsec%22%7D%2C%22imp%22%3A%5B%7B%22id%22%3A%220%22%2C%22video%22%3A%7B%22mimes%22%3A%5B%22video%2Fmp4%22%2C%22application%2Fjavascript%22%2C%22video%2Fwebm%22%2C%22video%2Fquicktime%22%2C%22video%2Fogg%22%5D%2C%22minduration%22%3A0%2C%22maxduration%22%3A200%2C%22protocols%22%3A%5B1%2C2%2C3%2C4%2C5%2C6%5D%2C%22w%22%3A400%2C%22h%22%3A225%2C%22linearity%22%3A1%2C%22api%22%3A%5B1%2C2%5D%2C%22playbackmethod%22%3A%5B2%5D%2C%22startdelay%22%3A0%2C%22placement%22%3A5%7D%2C%22ext%22%3A%7B%22sid%22%3A%22pr_1_1_s%22%2C%22custom%22%3A%22videoPlayback%22%7D%2C%22bidfloor%22%3A2%7D%5D%2C%22source%22%3A%7B%22ext%22%3A%7B%22schain%22%3A%7B%22ver%22%3A%221.0%22%2C%22nodes%22%3A%5B%7B%22asi%22%3A%22freestar.com%22%2C%22hp%22%3A1%2C%22sid%22%3A%221108%22%7D%5D%2C%22complete%22%3A1%7D%7D%7D%2C%22user%22%3A%7B%22ext%22%3A%7B%22consent%22%3A%22%22%7D%7D%2C%22regs%22%3A%7B%22ext%22%3A%7B%22gdpr%22%3A0%2C%22us_privacy%22%3A%221---%22%7D%7D%7D, line 1: ReferenceError: indexResponsee81b6ddb5 is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 5542 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 2029 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\brian\\AppData\\Local\\Temp\\rust_mozprofileu4aXZC\\search.json.mozlz4", (void 0)))
+1653691575126	Marionette	INFO	Listening on port 4769
+1653691575225	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js line 2 > eval line 2785 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1653691593929&ver1=2.2.3&qid=83233313f553333313f513430313&rnd=bgzjae7ijpsp&cid=1041 line 1 > eval, line 175: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1653691593903&ver1=2.2.3&qid=83233313f553333313f513430313&rnd=kl9smi58n6z7&cid=1041 line 1 > eval, line 175: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1653691594115&ver1=2.2.3&qid=83233313f553333313f513430313&rnd=2nxnaww7jawv&cid=1041 line 1 > eval, line 175: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
