@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "triple-bonito-341905",
+  "private_key_id": "b13c51726f6b0f500ca4a3a3ef9c656be4bf141f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCOOcDY0DyJiNaI\nWEeCSQ/XfhFHw4ESIeGBN65o9tBbpeF8ZT00JL8lYJwuxpoN4X/LFrBbO5k4u8yb\nMYAmrClZnphClZiMeuX16Nx5U910Lj98x+BbetFMogLwghWzYEkcZw71zfj+4EsX\n4WXLR5uEzIxmB0mSkDyVXirWAWV5JKDL+ZZofpu4K19rdLEiZXKs/ZTC/IsKjVPT\ngtSRFMMOuJW22w4bpAGJoB6eZfjIm4uKC6NsNPnGn5glbs07PfqccXTU02PwKUR2\nDlLFA6nxlEKSl7D5L92S9yIiNj4ieXsxaqTfLmt2P8mLLLR7WJWsErYtv2hNne4l\n+Bxdgo8/AgMBAAECggEACoJbLQPBRWRjSpkQITqaChFNrS2idVJXLsyMSnZz+CGu\nVk1gxvnKigEbT7WEuQinM1ZOdIW93g+HOeLf4xVB/ol8GyEH4z5KWbzGj2YfOf0Y\nDqjySHz8Lc5wd/cUxWr69Z23FEcPYnEn+1bALKCMIRvANnwy91QWT4jKxekKgREt\nZUdN1leVcB3u6wCIdaWpksIUaXYDX7uGNI2ICMnIy/oHXQsPVtbW4W5dYJwgYa5m\nGbtlGMFHSJGFw7R4DXrsMIumKI4tTwoUsa51y3Vy5iiZy7yjVwXIJHoptFoeEgUG\nGemDDZrrzeaziDn7CGjVf0wS/WGU/0RuUZHeiZ6JaQKBgQDECa5CDHp9ZIBtA9Zo\np93u5HZ6FX68IqR7IoMES4YmzsGt/Z14aCs1H11YYv5bvBkBwCC3VnZwormz5cT8\n2faZsmkGpedD4Hu/+cBdyqUTCewmFL1EtKhcx2z2tNrnbVjfVuIeXyMIxlLt9huC\nMcaza6lVh2iy+jEScj7C+v6bNQKBgQC5umw8lCVp0nVs5PpI3vGUkmcR8prOwsBd\nyemG1kmfl8qpOUlyy36WCQfZ+8LpC8VWnrDdgfVisebDGfV2//0qBup2JPdW8abJ\nQNWykFJZLilgjV9RwiY2t/woBEL9ABgnm9XxBp3p9HEyNZaqLFqE0ANrSy5lLmMZ\nqKenttnbIwKBgH89LU6PXN2QYs7fI8YP1rucq813sCeacJm/f7xE7NC5d/pfV1r0\neb7kGakpr6CJCM4bDuEQjJV0+QVryBy5uBZwNzzqZ52l0Yx8JUB7LAOceBsLcQFs\nJK77fZzvK/nz/jAP63n9E/c5ClCLYbVya16/LUxnNCyeuUUYw+W4FZNVAoGAdk2R\n/jBbeIGPPJLJ/jrMZNewgZUoGMWipNslPjcm5Fpaw9nyuAV5F3afIrGkIK/XvmoM\nvLu4I2qwU9woJ+m9R9Tp6eF4D1CT7aO3uysE2Tt3LcI/UiO6FaayHodAaEl0GV7B\nMusFEW4b4GCUHMdtzSV22BQmdFrM0x5D1Ke7M0MCgYEAwFexVpsJXk0kfWKvLXHP\nUv3IT6SKlV0aI5doqyeoIvcYYW6TtmObYwZgAFw0Y7cLV5+ybBVqOR6SKRWXIvsZ\nC/QH1NrlHtRvaPn9GluWcuTtIvTriOPs2gwOopaHnNUzIFh5xsmtpQLCufG0Q+60\nyn660HwGJ0wSoFGyXGGa2Ws=\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-storage-client@triple-bonito-341905.iam.gserviceaccount.com",
+  "client_id": "115395633746572166451",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-storage-client%40triple-bonito-341905.iam.gserviceaccount.com"
+}
