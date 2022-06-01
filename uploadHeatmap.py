@@ -2,6 +2,7 @@ from google.cloud import storage
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 import datetime
+import time
 
 
 hour = datetime.datetime.now().hour
@@ -14,6 +15,7 @@ def getFinvizData():
     options.headless = True
     driver = webdriver.Chrome(options=options)
     driver.get('https://finviz.com/map.ashx?t=sec')
+    time.sleep('3')
     element = driver.find_element_by_xpath('/html/body/div[2]/div/div/div[2]/div[2]/div/div/div/canvas[2]')
     element.screenshot('foo.png')
     
