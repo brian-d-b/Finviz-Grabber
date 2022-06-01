@@ -1,5 +1,6 @@
 from google.cloud import storage
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 import datetime
 
 
@@ -9,12 +10,11 @@ date_string = str(datetime.date.today()) + " %s-%s" % (hour,minute)
 
 def getFinvizData():
     # This sets the options so Selenium uses a headless Firefox instance to get the image
-    fireFoxOptions = webdriver.FirefoxOptions()
-    fireFoxOptions.set_headless()
-
-    browser = webdriver.Firefox(firefox_options=fireFoxOptions)
-    browser.get('https://finviz.com/map.ashx?t=sec')
-    element = browser.find_element_by_xpath('/html/body/div[2]/div/div/div[2]/div[2]/div/div/div/canvas[2]')
+    options = Options()
+    options.headless = True
+    driver = webdriver.Chrome(options=options)
+    driver.get('https://finviz.com/map.ashx?t=sec')
+    element = driver.find_element_by_xpath('/html/body/div[2]/div/div/div[2]/div[2]/div/div/div/canvas[2]')
     element.screenshot('foo.png')
     
 def uploadToGoogleStorage():
