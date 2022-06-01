@@ -15,7 +15,7 @@ def getFinvizData():
     options.headless = True
     driver = webdriver.Chrome(options=options)
     driver.get('https://finviz.com/map.ashx?t=sec')
-    time.sleep('3')
+    time.sleep(3)
     element = driver.find_element_by_xpath('/html/body/div[2]/div/div/div[2]/div[2]/div/div/div/canvas[2]')
     element.screenshot('foo.png')
     
