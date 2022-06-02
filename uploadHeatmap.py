@@ -16,8 +16,9 @@ def getFinvizData():
     driver = webdriver.Chrome(options=options)
     time.sleep(3)
     driver.get('https://finviz.com/map.ashx?t=sec')
-    time.sleep(10)
-    element = driver.find_element_by_xpath('/html/body/div[2]/div/div/div[2]/div[2]/div/div/div/canvas[2]')
+    time.sleep(3)
+    print(driver.find_element_by_xpath('/html/body/'))
+    element = driver.find_element_by_xpath('/html/body/div[2]/div/div/div[2]/div[2]/div/div/div/canvas[1]')
     element.screenshot('foo.png')
     
 def uploadToGoogleStorage():
